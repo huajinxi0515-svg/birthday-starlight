@@ -1,0 +1,13 @@
+Third-party notices
+
+Three.js (MIT)
+https://github.com/mrdoob/three.js
+See three-license.txt for the full license and copyright notice.
+
+MediaPipe Tasks Vision and its WebAssembly runtime (Apache-2.0)
+Copyright Google LLC and the MediaPipe contributors.
+https://github.com/google-ai-edge/mediapipe
+https://www.apache.org/licenses/LICENSE-2.0
+Hand Landmarker model: https://ai.google.dev/edge/mediapipe/solutions/vision/hand_landmarker#models
+
+The default background music and synthesized effects were created for this project.
